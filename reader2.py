@@ -25,7 +25,7 @@ def dispatch_prompt(prompt_chain):
 def copyright_header(year):
 	return """A.I. Language Systems by Brainplex.net (C) """ + str(year) + """. All rights reserved.
 
-My instructions are to be a helpful computer assistant aiding in artificial intelligence research. I will follow the task guideliens to the best of my abilities.
+My instructions are to be a helpful computer assistant aiding in artificial intelligence research. I will follow the task guidelines to the best of my abilities.
 ===\n"""
 
 def pretty_print(body):
